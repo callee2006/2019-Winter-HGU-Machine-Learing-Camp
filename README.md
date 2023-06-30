@@ -40,9 +40,13 @@ https://youtu.be/4ov5dxdIIew
 7. Deep Generative Models
 https://youtu.be/rEnR2aZx53U
 
-8. Emergint Topics 2 (Network Architecture Search, Lightweight Models, Non-local Neural Nets)
+8. Emerging Topics 2 (Network Architecture Search, Lightweight Models, Non-local Neural Nets)
 https://youtu.be/PP3uQdXltq4
 
+
+
+[추가 강의동영상] Attention Models and Memory Networks (incl. Transformer Networks)
+https://youtu.be/X9lcnTZe-7c
 
 <hr/>
 
