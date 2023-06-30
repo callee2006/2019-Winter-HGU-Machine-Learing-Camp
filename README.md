@@ -4,7 +4,7 @@
 * 강사: 한동대 전산전자공학부 김인중 교수
 * 시간: 2019년 1월 7-9일
 * 장소: 한동대학교 뉴턴홀 313호
-* 강의자료: [2019년 한동머신러닝캠프 강의자료_통합](2019_HGU_ML_Camp_LectureNote.pdf).
+* 강의자료 [다운로드](2019_HGU_ML_Camp_LectureNote.pdf)
 
 ![Alt text](2019_HGU_ML_Camp_Title.jpg)
 
@@ -49,7 +49,7 @@ https://youtu.be/PP3uQdXltq4
 
 * \[Transformer Networks\] Attention Models and Memory Networks
 https://youtu.be/X9lcnTZe-7c
-\[강의자료 [다운로드](https://github.com/callee2006/2019-Winter-HGU-Machine-Learing-Camp/blob/master/20200806%20Attention%20Models%20and%20Memory%20Networks_s.pdf)\]
+(강의자료 [다운로드](https://github.com/callee2006/2019-Winter-HGU-Machine-Learing-Camp/blob/master/20200806%20Attention%20Models%20and%20Memory%20Networks_s.pdf))
 
 <hr/>
 
