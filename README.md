@@ -48,5 +48,8 @@ https://youtu.be/PP3uQdXltq4
 [추가 강의동영상] Attention Models and Memory Networks (incl. Transformer Networks)
 https://youtu.be/X9lcnTZe-7c
 
+강의자료: 20200806 Attention Models and Memory Networks_s.pdf
+         https://github.com/callee2006/2019-Winter-HGU-Machine-Learing-Camp/blob/master/20200806%20Attention%20Models%20and%20Memory%20Networks_s.pdf
+
 <hr/>
 
